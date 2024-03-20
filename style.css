@@ -1,0 +1,110 @@
+
+*{
+  margin: 0;
+  background-color: rgb(169, 169, 224);
+}
+
+body html{
+  scroll-behavior: smooth;
+  
+}
+.intro{
+    min-height: 700px;
+    /* background-image: url(/image1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.image{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image img {
+    height: 400px;
+    border-radius: 50%;
+    margin: 20px;
+
+}
+
+
+
+.education h2 , p{
+  font-size: 1.5rem;
+  margin: 20px;
+  text-align: center;
+
+
+}
+ .image2{
+  min-height: 400px;
+ background: url(/image2.jpg); 
+ background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.technical h2 , p{
+  
+  text-align: center;
+  margin: 20px;
+
+}
+
+
+.image3{
+  min-height: 400px;
+  background: url(/image3.jpg);
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.projects{
+  text-align: center;
+  margin: 20px;
+
+}
+.image4{
+  min-height: 400px;
+  background: url(/image4.jpg);
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.skills{
+  text-align: center;
+  margin: 20px;
+}
+.image5{
+  min-height: 400px;
+  background: url(/image5.jpg);
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.details{
+  text-align: center;
+  margin: 20px;
+}
+.image6{
+  min-height: 400px;
+  background: url(/image6.jpg);
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
